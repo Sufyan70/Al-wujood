@@ -1,0 +1,3 @@
+{
+  "message": "🧾 Receipt Details\n\n🆔 Transaction ID: T10245\n📅 Date: 2025-07-11\n⏰ Time: 4:15 PM\n📍 Location: Grand Mall Parking\n💰 Amount: OMR 2.000\n📧 Sent To: user@example.com\n\n✅ Your receipt has been emailed successfully!"
+}
