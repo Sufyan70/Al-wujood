@@ -1,0 +1,3 @@
+{
+  "message": "📄 Your Existing Reservations:\n\n🔹 Reservation ID: RZV-10239\n📍 Location: City Center Parking\n📅 Date: 2024-07-14\n⏰ Time: 10:00 AM - 12:00 PM\n\n🔹 Reservation ID: RZV-10255\n📍 Location: Ruwi Public Parking\n📅 Date: 2024-07-18\n⏰ Time: 3:30 PM - 5:00 PM"
+}
