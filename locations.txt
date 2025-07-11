@@ -1,0 +1,5 @@
+City Center Parking | CITY_CENTER | Muscat | 23.5859, 58.4059
+Al Qurum Parking | AL_QURUM | Qurum | 23.6025, 58.4895
+Ruwi Public Parking | RUWI_PARK | Ruwi | 23.6071, 58.5465
+Muscat Grand Mall | GRAND_MALL | Bawshar | 23.5886, 58.4153
+Shatti Al Qurum Lot | SHATTI_LOT | Shatti | 23.6152, 58.4709
